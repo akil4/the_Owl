@@ -1,6 +1,6 @@
 {
     "name": "The OWL AdBlocker",
-    "version": "0.1",
+    "version": "0.2",
     "description": "The OWL AdBlocker is a browser extension that blocks ads on websites",
     "permissions": ["declarativeNetRequest"],
     "host_permissions": ["<all_urls>"],
